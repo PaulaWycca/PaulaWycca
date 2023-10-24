@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil da PaulaWycca 😁
+## Bem-vindo(a) ao perfil da Paulamaba 😁
 
  <div>
-   <a href="https://github.com/PaulaWycca">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaulaWycca&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaWycca&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Paulamaba">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulamaba&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulamaba&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
